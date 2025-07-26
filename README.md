@@ -1,6 +1,6 @@
 # Crop Recommendation Dashboard - Power BI
 
-![Dashboard Preview](dashboard_preview.png) <!-- Add your screenshot here -->
+![Dashboard Preview](image.png)
 
 ## Introduction
 This Power BI dashboard helps farmers and agricultural experts identify optimal crops based on soil conditions and climate factors. Using the [Crop Recommendation Dataset](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset) from Kaggle, it analyzes key parameters to provide actionable insights for crop planning.
